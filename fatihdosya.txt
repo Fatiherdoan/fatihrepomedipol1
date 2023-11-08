@@ -1,1 +1,2 @@
 ders 5 notu
+ uml diyagramıni işledik
